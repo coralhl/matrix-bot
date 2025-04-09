@@ -4,7 +4,8 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/matrix-org/gomatrix"
+	// "github.com/matrix-org/gomatrix"
+	"maunium.net/go/mautrix"
 )
 
 func TestMatrixBot_getUserPower(t *testing.T) {

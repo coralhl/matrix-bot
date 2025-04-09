@@ -6,7 +6,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/matrix-org/gomatrix"
+	// "github.com/matrix-org/gomatrix"
+	"maunium.net/go/mautrix"
 )
 
 //MatrixBot struct to hold the bot and it's methods
