@@ -12,4 +12,5 @@
 *.out
 tags
 
-main.go
+matrixbot.db*
+config.yml
